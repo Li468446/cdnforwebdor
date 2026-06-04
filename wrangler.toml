@@ -5,8 +5,8 @@ compatibility_date = "2025-11-04"
 keep_vars = true
 
 #[[kv_namespaces]]
-#binding = "KV"			#KV绑定名默认不可修改
-#id = ""				#KV数据库id
+binding = "KV"			#KV绑定名默认不可修改
+id = "5dd70781e8d2498d95bb35fe922011f3"				#KV数据库id
 [observability]
 enabled = false
 head_sampling_rate = 1
